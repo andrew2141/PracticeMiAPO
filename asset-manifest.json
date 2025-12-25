@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PracticeMiAPO/static/css/main.f855e6bc.css",
+    "main.js": "/PracticeMiAPO/static/js/main.c47a7f37.js",
+    "static/js/453.a69bd21f.chunk.js": "/PracticeMiAPO/static/js/453.a69bd21f.chunk.js",
+    "index.html": "/PracticeMiAPO/index.html",
+    "main.f855e6bc.css.map": "/PracticeMiAPO/static/css/main.f855e6bc.css.map",
+    "main.c47a7f37.js.map": "/PracticeMiAPO/static/js/main.c47a7f37.js.map",
+    "453.a69bd21f.chunk.js.map": "/PracticeMiAPO/static/js/453.a69bd21f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.c47a7f37.js"
+  ]
+}
